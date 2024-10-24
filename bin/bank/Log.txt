@@ -1,0 +1,7 @@
+Daniel J made a balance inquiry on Checking-1087. Daniel J Balance for Checking-1087: $1924.71
+Daniel J withdrew $100.0 in cash from Checking-1087. Daniel J Balance for Checking-1087: $1824.71
+Daniel J made a balance inquiry on Checking-1087. Daniel J Balance for Checking-1087: $1924.71
+Daniel J withdrew $100.0 in cash from Checking-1087. Daniel J Balance for Checking-1087: $1824.71
+Time and Date: 2024-10-24T14:33:50.994602 | Daniel J made a balance inquiry on Checking-1087. Daniel J Balance for Checking-1087: $1924.71
+Time and Date: 2024-10-24T14:34:06.585871 | Daniel J withdrew $80.0 in cash from Checking-1087. Daniel J Balance for Checking-1087: $1844.71
+Time and Date: 2024-10-24T14:34:17.547155 | Daniel J made a balance inquiry on Checking-1087. Daniel J Balance for Checking-1087: $1844.71
